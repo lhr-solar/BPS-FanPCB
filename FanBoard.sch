@@ -420,4 +420,26 @@ F 3 "~" H 5250 5650 50  0001 C CNN
 	1    5250 5650
 	1    0    0    -1  
 $EndComp
+$Comp
+L utsvt-misc:Logo_Placeholder LOGO1
+U 1 1 5F29C39C
+P 6250 3700
+F 0 "LOGO1" H 6250 3850 50  0001 C CNN
+F 1 "Hallock" H 6390 3700 50  0000 L CNN
+F 2 "UTSVT_Special:Hallock_Image_Small" H 6250 3775 50  0001 C CNN
+F 3 "" H 6250 3775 50  0001 C CNN
+	1    6250 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L utsvt-misc:Logo_Placeholder LOGO2
+U 1 1 5F29CCCF
+P 6250 4000
+F 0 "LOGO2" H 6250 4150 50  0001 C CNN
+F 1 "UTSVT" H 6390 4000 50  0000 L CNN
+F 2 "UTSVT_Special:UTSVT_Logo_Symbol" H 6250 4075 50  0001 C CNN
+F 3 "" H 6250 4075 50  0001 C CNN
+	1    6250 4000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
