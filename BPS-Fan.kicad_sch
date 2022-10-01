@@ -1600,7 +1600,7 @@
     (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 243.84 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.mouser.com/datasheet/2/445/150080BS75000-1715853.pdf" (id 3) (at 243.84 100.33 0)
+    (property "Datasheet" "https://www.mouser.com/datasheet/2/216/APTD2012LVBC-D-1101043.pdf" (id 3) (at 243.84 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 447d84f3-d6aa-497e-94a8-cbf49cd0fad6))
