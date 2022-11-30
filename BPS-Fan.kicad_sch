@@ -1883,7 +1883,7 @@
   (symbol (lib_id "Diode:C3D25170H") (at 138.43 62.23 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 996439a0-9ad5-4024-a65c-42386d89db2a)
-    (property "Reference" "D2" (id 0) (at 140.97 59.69 90)
+    (property "Reference" "D3" (id 0) (at 140.97 59.69 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "V2F22HM" (id 1) (at 127 64.77 90)
@@ -2080,7 +2080,7 @@
   (symbol (lib_id "Diode:C3D25170H") (at 134.62 132.08 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d94c94ed-42ff-4e7f-879f-801eb909b803)
-    (property "Reference" "D3" (id 0) (at 137.16 129.54 90)
+    (property "Reference" "D2" (id 0) (at 137.16 129.54 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "V2F22HM" (id 1) (at 123.19 134.62 90)
@@ -2250,10 +2250,10 @@
     (path "/6262300e-0a8a-47ee-9338-b0d81098aac8"
       (reference "D1") (unit 1) (value "V2F22HM") (footprint "UTSVT_Passive:V2F22HM")
     )
-    (path "/996439a0-9ad5-4024-a65c-42386d89db2a"
+    (path "/d94c94ed-42ff-4e7f-879f-801eb909b803"
       (reference "D2") (unit 1) (value "V2F22HM") (footprint "UTSVT_Passive:V2F22HM")
     )
-    (path "/d94c94ed-42ff-4e7f-879f-801eb909b803"
+    (path "/996439a0-9ad5-4024-a65c-42386d89db2a"
       (reference "D3") (unit 1) (value "V2F22HM") (footprint "UTSVT_Passive:V2F22HM")
     )
     (path "/097164b0-78ef-49b4-83cc-2fbdd82cec8a"
