@@ -1,80 +1,73 @@
-"Source:","D:\KiCAD\BPS-FanPCB\BPS-Fan.kicad_sch"
-"Date:","10/22/2022 4:40:26 PM"
-"Tool:","Eeschema (6.0.7)"
-"Generator:","D:\KiCAD\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
-"Component Count:","45"
-
-"Individual Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"","","D1","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D2","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D3","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D4","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D5","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D6","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D7","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D8","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D9","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D10","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D11","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","D12","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"","","H1","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_3mm","~"
-"","","H2","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_3mm","~"
-"","","H3","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_3mm","~"
-"","","H4","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_3mm","~"
-"","","J1","LDRBRDConn","Connector_Generic:Conn_02x03_Top_Bottom","Connector_Molex:Molex_Micro-Fit_3.0_43045-0612_2x03_P3.00mm_Vertical","https://www.mouser.com/datasheet/2/276/3/0430450626_PCB_HEADERS-2832587.pdf"
-"","","J2","FAN1","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J3","FAN2","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J4","FAN3","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J5","FAN4","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J6","FAN5","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J7","FAN6","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J8","FAN7","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J9","FAN8","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J10","FAN9","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J11","FAN10","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J12","FAN11","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","J13","FAN12","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"","","LED1","STATUS","Device:LED","LED_SMD:LED_0805_2012Metric","https://www.mouser.com/datasheet/2/216/APTD2012LVBC-D-1101043.pdf"
-"","","LOGO1","Hallock","utsvt-misc:Logo_Placeholder","UTSVT_Special:Hallock_Image_Small",""
-"","","LOGO2","UTSVT","utsvt-misc:Logo_Placeholder","UTSVT_Special:UTSVT_Logo_Symbol",""
-"","","Q1","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q2","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q3","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q4","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q5","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q6","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q7","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q8","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q9","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q10","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q11","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","Q12","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"","","R1","10k","Device:R","Resistor_SMD:R_0805_2012Metric","https://www.mouser.com/datasheet/2/427/crcwce3-1762584.pdf"
-
-
-
-"Collated Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"1","12","D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12","V2F22HM","Diode:C3D25170H","UTSVT_Passive:V2F22HM","https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf"
-"2","4","H1, H2, H3, H4","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_3mm","~"
-"3","1","J1","LDRBRDConn","Connector_Generic:Conn_02x03_Top_Bottom","Connector_Molex:Molex_Micro-Fit_3.0_43045-0612_2x03_P3.00mm_Vertical","https://www.mouser.com/datasheet/2/276/3/0430450626_PCB_HEADERS-2832587.pdf"
-"4","1","J2","FAN1","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"5","1","J3","FAN2","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"6","1","J4","FAN3","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"7","1","J5","FAN4","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"8","1","J6","FAN5","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"9","1","J7","FAN6","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"10","1","J8","FAN7","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"11","1","J9","FAN8","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"12","1","J10","FAN9","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"13","1","J11","FAN10","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"14","1","J12","FAN11","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"15","1","J13","FAN12","Connector_Generic:Conn_01x02","UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical","https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf"
-"16","1","LED1","STATUS","Device:LED","LED_SMD:LED_0805_2012Metric","https://www.mouser.com/datasheet/2/216/APTD2012LVBC-D-1101043.pdf"
-"17","1","LOGO1","Hallock","utsvt-misc:Logo_Placeholder","UTSVT_Special:Hallock_Image_Small",""
-"18","1","LOGO2","UTSVT","utsvt-misc:Logo_Placeholder","UTSVT_Special:UTSVT_Logo_Symbol",""
-"19","12","Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12","BUK9M23-80E","Transistor_FET:BUK9M23-80EX","Package_TO_SOT_SMD:LFPAK33","https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf"
-"20","1","R1","10k","Device:R","Resistor_SMD:R_0805_2012Metric","https://www.mouser.com/datasheet/2/427/crcwce3-1762584.pdf"
+Source:,D:\KiCAD\BPS-FanPCB\BPS-Fan.kicad_sch,,,,,
+Date:,12/15/2022 12:03,,,,,
+Tool:,Eeschema (6.0.7),,,,,
+Generator:,D:\KiCAD\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,
+Component Count:,37,,,,,
+Cart:,https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d15e40a820,,,,,
+Individual Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,D1,V2F22HM,Diode:C3D25170H,UTSVT_Passive:V2F22HM,https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf
+,,D2,V2F22HM,Diode:C3D25170H,UTSVT_Passive:V2F22HM,https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf
+,,D3,V2F22HM,Diode:C3D25170H,UTSVT_Passive:V2F22HM,https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf
+,,D4,V2F22HM,Diode:C3D25170H,UTSVT_Passive:V2F22HM,https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf
+,,H1,MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_3mm,~
+,,H2,MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_3mm,~
+,,H3,MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_3mm,~
+,,H4,MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_3mm,~
+,,J1,LDRBRDConn,Connector_Generic:Conn_02x03_Top_Bottom,Connector_Molex:Molex_Micro-Fit_3.0_43045-0612_2x03_P3.00mm_Vertical,https://www.mouser.com/datasheet/2/276/3/0430450626_PCB_HEADERS-2832587.pdf
+,,J2,FAN1,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J3,FAN2,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J4,FAN3,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J5,FAN4,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J6,FAN5,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J7,FAN6,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J8,FAN7,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J9,FAN8,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J10,FAN9,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J11,FAN10,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J12,FAN11,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,J13,FAN12,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+,,LED1,STATUS,Device:LED,LED_SMD:LED_0805_2012Metric,https://www.mouser.com/datasheet/2/216/APTD2012LVBC-D-1101043.pdf
+,,LOGO1,Hallock,utsvt-misc:Logo_Placeholder,UTSVT_Special:Hallock_Image_Small,
+,,LOGO2,UTSVT,utsvt-misc:Logo_Placeholder,UTSVT_Special:UTSVT_Logo_Symbol,
+,,Q1,BUK9M23-80E,Transistor_FET:BUK9M23-80EX,Package_TO_SOT_SMD:LFPAK33,https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf
+,,Q2,BUK9M23-80E,Transistor_FET:BUK9M23-80EX,Package_TO_SOT_SMD:LFPAK33,https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf
+,,Q3,BUK9M23-80E,Transistor_FET:BUK9M23-80EX,Package_TO_SOT_SMD:LFPAK33,https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf
+,,Q4,BUK9M23-80E,Transistor_FET:BUK9M23-80EX,Package_TO_SOT_SMD:LFPAK33,https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf
+,,R1,10k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/71-CRCW080510K0FKEAC
+,,R2,100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D
+,,R3,100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D
+,,R4,100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D
+,,R5,100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D
+,,R6,100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D
+,,R7,100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D
+,,R8,100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D
+,,R9,100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D
+,,,,,,
+,,,,,,
+,,,,,,
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,4,"D1, D2, D3, D4",V2F22HM,Diode:C3D25170H,UTSVT_Passive:V2F22HM,https://www.mouser.com/datasheet/2/427/v2f22-1767661.pdf
+2,4,"H1, H2, H3, H4",MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_3mm,~
+3,1,J1,LDRBRDConn,Connector_Generic:Conn_02x03_Top_Bottom,Connector_Molex:Molex_Micro-Fit_3.0_43045-0612_2x03_P3.00mm_Vertical,https://www.mouser.com/datasheet/2/276/3/0430450626_PCB_HEADERS-2832587.pdf
+4,1,J2,FAN1,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+5,1,J3,FAN2,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+6,1,J4,FAN3,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+7,1,J5,FAN4,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+8,1,J6,FAN5,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+9,1,J7,FAN6,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+10,1,J8,FAN7,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+11,1,J9,FAN8,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+12,1,J10,FAN9,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+13,1,J11,FAN10,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+14,1,J12,FAN11,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+15,1,J13,FAN12,Connector_Generic:Conn_01x02,UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical,https://www.mouser.com/datasheet/2/276/3/0436500226_PCB_HEADERS-2845455.pdf
+16,1,LED1,STATUS,Device:LED,LED_SMD:LED_0805_2012Metric,https://www.mouser.com/datasheet/2/216/APTD2012LVBC-D-1101043.pdf
+17,1,LOGO1,Hallock,utsvt-misc:Logo_Placeholder,UTSVT_Special:Hallock_Image_Small,
+18,1,LOGO2,UTSVT,utsvt-misc:Logo_Placeholder,UTSVT_Special:UTSVT_Logo_Symbol,
+19,4,"Q1, Q2, Q3, Q4",BUK9M23-80E,Transistor_FET:BUK9M23-80EX,Package_TO_SOT_SMD:LFPAK33,https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf
+20,1,R1,10k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/71-CRCW080510K0FKEAC
+21,8,"R2, R3, R4, R5, R6, R7, R8, R9",100k,Device:R,Resistor_SMD:R_0805_2012Metric,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D

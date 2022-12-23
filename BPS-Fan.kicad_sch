@@ -1369,7 +1369,7 @@
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 242.062 107.95 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.mouser.com/datasheet/2/427/crcwce3-1762584.pdf" (id 3) (at 243.84 107.95 0)
+    (property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW080510K0FKEAC" (id 3) (at 243.84 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 007997a4-7844-4205-88f6-4b9e2802ac67))
