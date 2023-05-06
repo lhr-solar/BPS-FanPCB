@@ -1251,6 +1251,14 @@
     (uuid fa0a6382-3638-409c-ab96-682f583381e3)
   )
 
+  (text_box "Version History\n\nV2.0\n- Changed Fan Connector Count from 4 to 12\n- Added PUR & PDR for negative and positive logic control"
+    (at 172.974 25.4 0) (size 73.66 15.748)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.5 1.5)) (justify left top))
+    (uuid cde9c431-a18a-4947-bd0d-c4e9729b7f78)
+  )
+
   (text "BPS Fan Board" (at 129.54 45.72 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid b7a78a4f-1096-42e7-affa-fdc461413bb4)
