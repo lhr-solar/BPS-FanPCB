@@ -27,3 +27,7 @@ BPS-Fan-backups/*
 # Exported BOM files
 *.xml
 */*.csv
+
+.DS_Store
+
+*_layout.log
