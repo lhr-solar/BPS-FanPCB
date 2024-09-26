@@ -357,7 +357,7 @@
 			(uuid "573cd832-86f3-4260-903a-b3e772d40fc7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1785a83d-9070-48ec-9e6d-12b051b03e01")
 			(effects
@@ -3360,7 +3360,7 @@
 			(uuid "8f063df7-e642-4e6d-9b51-0d3186a99a58")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "bec31123-1953-43c5-a0df-85745a871b8a")
 			(effects
@@ -3999,7 +3999,7 @@
 			(uuid "dfb4b633-fb65-41e1-9889-e1f2f3b10f28")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "651cc654-e81d-4a4c-ad2b-72c5732174d4")
 			(effects
@@ -7287,7 +7287,7 @@
 			(uuid "7216a0a8-5b77-4736-a033-1c2f7b594c85")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6b2b5c20-7367-4b7e-a33b-5e007958bce9")
 			(effects
@@ -7481,11 +7481,11 @@
 	(footprint "Connector_Molex:Molex_Micro-Fit_3.0_43045-0612_2x03_P3.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e6d9000f-beac-4fa4-b052-82c1983333ae")
-		(at 139.296762 79.92061 180)
+		(at 139.296762 64.52061 180)
 		(descr "Molex Micro-Fit 3.0 Connector System, 43045-0612 (compatible alternatives: 43045-0613, 43045-0624), 3 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Micro-Fit_3.0 vertical")
 		(property "Reference" "J1"
-			(at 3 -3.67 360)
+			(at 3 -3.67 0)
 			(layer "F.SilkS")
 			(uuid "e04ce10e-c6b5-447f-b7cc-ce02b485f012")
 			(effects
@@ -7496,7 +7496,7 @@
 			)
 		)
 		(property "Value" "LDRBRDConn"
-			(at 3 7.51 360)
+			(at 3 7.51 0)
 			(layer "F.Fab")
 			(uuid "3496e028-7ed8-46cc-9c3e-030d2dbb14b4")
 			(effects
@@ -7841,7 +7841,7 @@
 			(uuid "7a37ee35-d18d-4fb5-8186-af9efca06363")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3 4.2 360)
+			(at 3 4.2 0)
 			(layer "F.Fab")
 			(uuid "d12763a8-f5db-4432-9c70-b2f771996a5d")
 			(effects
@@ -8221,7 +8221,7 @@
 	)
 	(gr_rect
 		(start 114.296762 58.52061)
-		(end 157.896762 101.92061)
+		(end 157.896762 101.32061)
 		(stroke
 			(width 0.05)
 			(type default)
