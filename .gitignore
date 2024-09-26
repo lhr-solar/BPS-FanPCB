@@ -28,6 +28,8 @@ BPS-Fan-backups/*
 *.xml
 */*.csv
 
+*.lck
+
 .DS_Store
 
 *_layout.log
