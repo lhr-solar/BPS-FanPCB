@@ -554,8 +554,8 @@
 			(pin_names
 				(offset 1.016)
 			)
-			(exclude_from_sim no)
-			(in_bom yes)
+			(exclude_from_sim yes)
+			(in_bom no)
 			(on_board yes)
 			(property "Reference" "H"
 				(at 0 5.08 0)
@@ -634,9 +634,9 @@
 		)
 		(symbol "power:+12V"
 			(power)
+			(pin_numbers hide)
 			(pin_names
-				(offset 0)
-			)
+				(offset 0) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -684,7 +684,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "power-flag"
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(effects
 					(font
@@ -734,8 +734,8 @@
 			(symbol "+12V_1_1"
 				(pin power_in line
 					(at 0 0 90)
-					(length 0) hide
-					(name "+12V"
+					(length 0)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -754,9 +754,9 @@
 		)
 		(symbol "power:GNDPWR"
 			(power)
+			(pin_numbers hide)
 			(pin_names
-				(offset 0)
-			)
+				(offset 0) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -795,7 +795,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , power ground"
+			(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
 				(at 0 0 0)
 				(effects
 					(font
@@ -804,7 +804,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "power-flag"
+			(property "ki_keywords" "global ground"
 				(at 0 0 0)
 				(effects
 					(font
@@ -902,8 +902,8 @@
 			(symbol "GNDPWR_1_1"
 				(pin power_in line
 					(at 0 0 270)
-					(length 0) hide
-					(name "GNDPWR"
+					(length 0)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -983,11 +983,11 @@
 			(symbol "Logo_Placeholder_0_1"
 				(arc
 					(start -1.905 0)
-					(mid 0 -1.8967)
+					(mid 0 -1.905)
 					(end 1.905 0)
 					(stroke
 						(width 0)
-						(type default)
+						(type solid)
 					)
 					(fill
 						(type none)
@@ -999,7 +999,7 @@
 					)
 					(stroke
 						(width 0)
-						(type default)
+						(type solid)
 					)
 					(fill
 						(type none)
@@ -1011,7 +1011,7 @@
 					)
 					(stroke
 						(width 0)
-						(type default)
+						(type solid)
 					)
 					(fill
 						(type none)
@@ -1022,7 +1022,7 @@
 					(radius 2.8448)
 					(stroke
 						(width 0)
-						(type default)
+						(type solid)
 					)
 					(fill
 						(type background)
@@ -1287,7 +1287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 245.11 57.15 0)
 			(effects
 				(font
@@ -1350,7 +1350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 245.11 64.77 0)
 			(effects
 				(font
@@ -1413,7 +1413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 245.11 72.39 0)
 			(effects
 				(font
@@ -1476,7 +1476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 245.11 81.28 0)
 			(effects
 				(font
@@ -1530,7 +1530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW080510K0FKEAC"
+		(property "Datasheet" "~"
 			(at 165.1 77.47 0)
 			(effects
 				(font
@@ -1539,7 +1539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 165.1 77.47 0)
 			(effects
 				(font
@@ -1599,7 +1599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/216/APTD2012LVBC-D-1101043.pdf"
+		(property "Datasheet" "~"
 			(at 165.1 69.85 0)
 			(effects
 				(font
@@ -1608,7 +1608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 165.1 69.85 0)
 			(effects
 				(font
@@ -1676,7 +1676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
 			(at 165.1 66.04 0)
 			(effects
 				(font
@@ -1741,7 +1741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
 			(at 165.1 81.28 0)
 			(effects
 				(font
@@ -1807,7 +1807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Graph footprint placeholder"
 			(at 269.24 58.42 0)
 			(effects
 				(font
@@ -1870,7 +1870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Graph footprint placeholder"
 			(at 269.24 66.04 0)
 			(effects
 				(font
@@ -1933,7 +1933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
 			(at 62.23 63.5 0)
 			(effects
 				(font
@@ -1999,7 +1999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
 			(at 41.91 71.12 0)
 			(effects
 				(font
@@ -2055,7 +2055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/276/3/0430450626_PCB_HEADERS-2832587.pdf"
+		(property "Datasheet" "~"
 			(at 50.8 66.04 0)
 			(effects
 				(font
@@ -2064,7 +2064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 50.8 66.04 0)
 			(effects
 				(font
@@ -2112,7 +2112,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "105d6206-78eb-4194-afd4-8d8c1c7531a1")
-		(property "Sheetname" "Driver"
+		(property "Sheetname" "Driver1"
 			(at 96.52 62.7884 0)
 			(effects
 				(font
@@ -2160,7 +2160,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "324616d9-bf64-418c-88ee-8b9e8f32727d")
-		(property "Sheetname" "Driver2"
+		(property "Sheetname" "Driver3"
 			(at 96.52 91.9984 0)
 			(effects
 				(font
@@ -2208,7 +2208,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "48a070bc-ea68-4415-9c4a-a4a1af37f712")
-		(property "Sheetname" "Driver1"
+		(property "Sheetname" "Driver2"
 			(at 96.52 78.0284 0)
 			(effects
 				(font
@@ -2256,7 +2256,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "6eaa0a11-7e18-4b05-9cbf-a4206d1f64dd")
-		(property "Sheetname" "Driver3"
+		(property "Sheetname" "Driver4"
 			(at 96.52 105.9684 0)
 			(effects
 				(font
