@@ -1683,7 +1683,7 @@
 			(uuid "b5120ed5-4869-400c-965f-553f9028e7e2")
 		)
 		(instances
-			(project ""
+			(project "BPS-Fan"
 				(path "/e60847d4-a954-40b9-b9c4-54b73957661c/105d6206-78eb-4194-afd4-8d8c1c7531a1"
 					(reference "Q3")
 					(unit 1)

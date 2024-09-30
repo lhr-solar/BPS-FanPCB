@@ -1789,7 +1789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UTSVT_Special:Hallock_Image_Small"
+		(property "Footprint" "UTSVT_Special:Hallock_Image_Tiny"
 			(at 269.24 56.515 0)
 			(effects
 				(font
